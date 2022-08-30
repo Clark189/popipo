@@ -1,7 +1,4 @@
 # popipo
-Never gonna give you up
-Never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry
-Never gonna say goodbye
-Never gonna tell a lie and hurt you
+
+это шутер 2000-ых.
+в этой игре вы можете стрелять по пришельцам и уворачиваться от мишеней.
